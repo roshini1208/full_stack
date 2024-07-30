@@ -1,0 +1,51 @@
+.allevents-container {
+    margin: 20px auto;
+    width: 80%;
+    max-width: 1000px;
+  }
+  
+  .allevents-table {
+    width: 150vh;
+    border-collapse: collapse;
+  }
+  
+  .allevents-table th,
+  .allevents-table td {
+    border: 1px solid #332f2f;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .allevents-table th {
+    background-color: #f2f2f2;
+  }
+  
+  .allevents-table td button {
+    margin-right: 5px;
+    padding: 5px 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .allevents-table td button:last-child {
+    background-color: #f44336;
+  }
+  
+  .allevents-table td button:hover {
+    opacity: 0.8;
+  }
+  
+  .allevents-table td input {
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+  }
+  .Allevent_sri
+{
+    background-image: url("https://files.123freevectors.com/wp-content/original/142925-cool-purple-business-background-template.jpg") ;
+    background-size:cover;
+    height:550px;
+    background-color:rgb(24, 24, 24);
+}
